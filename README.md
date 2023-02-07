@@ -1,2 +1,2 @@
 # Data-Analysis-Visualization
-Data Analysis using MS Excel (advance)
+Data Analysis using MS SQL
